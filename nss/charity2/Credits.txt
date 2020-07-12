@@ -1,0 +1,8 @@
+Credits:
+Jquery
+Bootstrap
+Owl carousel
+Font-awesome
+Jquery Stellar
+Images : Unsplash
+Goolgle fonts : Roboto, Source Sans Pro
